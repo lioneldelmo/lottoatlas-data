@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "games": [
+    {
+      "id": "us-powerball",
+      "name": "Powerball",
+      "country": "US",
+      "region": "north-america",
+      "timeZone": "America/New_York",
+      "currency": "USD",
+      "main": {
+        "count": 5,
+        "min": 1,
+        "max": 69
+      },
+      "bonus": [
+        {
+          "count": 1,
+          "min": 1,
+          "max": 26,
+          "name": "Powerball"
+        }
+      ],
+      "schedule": {
+        "days": [
+          1,
+          3,
+          6
+        ],
+        "time": "22:59"
+      },
+      "accent": "#C81E3A",
+      "enabled": true
+    },
+    {
+      "id": "us-mega-millions",
+      "name": "Mega Millions",
+      "country": "US",
+      "region": "north-america",
+      "timeZone": "America/New_York",
+      "currency": "USD",
+      "main": {
+        "count": 5,
+        "min": 1,
+        "max": 70
+      },
+      "bonus": [
+        {
+          "count": 1,
+          "min": 1,
+          "max": 24,
+          "name": "Mega Ball"
+        }
+      ],
+      "schedule": {
+        "days": [
+          2,
+          5
+        ],
+        "time": "23:00"
+      },
+      "accent": "#1A5FD0",
+      "enabled": true
+    }
+  ]
+}

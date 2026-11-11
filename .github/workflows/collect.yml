@@ -1,0 +1,88 @@
+name: Collect results
+
+on:
+  schedule:
+    # Every 15 minutes. GitHub may start scheduled runs late; the collector is idempotent.
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['src/**', 'package*.json', '.github/workflows/collect.yml']
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  issues: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm test
+
+      - name: Collect
+        id: collect
+        run: npm run collect
+        continue-on-error: true
+
+      # Valid draws are committed even when another game failed.
+      - name: Commit data
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "data: update results"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Open an issue on failure
+        if: steps.collect.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="Collector failure"
+          url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "in:title \"$title\"" --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --repo "$GITHUB_REPOSITORY" --body "Failed again: $url"
+          else
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "$title" --body "A collector run reported problems: $url"
+          fi
+
+      - uses: actions/configure-pages@v5
+        if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'
+        with:
+          path: data
+
+  deploy:
+    needs: collect
+    if: needs.collect.outputs.changed == 'true' || github.event_name != 'schedule'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

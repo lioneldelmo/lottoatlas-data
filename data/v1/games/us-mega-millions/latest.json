@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "gameId": "us-mega-millions",
+  "draw": {
+    "id": "us-mega-millions-2026-11-10",
+    "gameId": "us-mega-millions",
+    "localDate": "2026-11-10",
+    "drawnAt": "2026-11-11T04:00:00Z",
+    "main": [
+      2,
+      18,
+      25,
+      30,
+      65
+    ],
+    "bonus": [
+      {
+        "name": "Mega Ball",
+        "numbers": [
+          22
+        ]
+      }
+    ],
+    "extras": [],
+    "source": "https://data.ny.gov/d/5xaw-6ayf"
+  },
+  "next": {
+    "drawnAt": "2026-11-14T04:00:00Z"
+  },
+  "updatedAt": "2026-11-11T10:30:56Z"
+}

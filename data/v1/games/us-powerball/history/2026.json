@@ -1,0 +1,3759 @@
+{
+  "schemaVersion": 1,
+  "gameId": "us-powerball",
+  "year": 2026,
+  "draws": [
+    {
+      "id": "us-powerball-2026-11-09",
+      "gameId": "us-powerball",
+      "localDate": "2026-11-09",
+      "drawnAt": "2026-11-10T03:59:00Z",
+      "main": [
+        13,
+        34,
+        41,
+        45,
+        48
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            25
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-11-07",
+      "gameId": "us-powerball",
+      "localDate": "2026-11-07",
+      "drawnAt": "2026-11-08T03:59:00Z",
+      "main": [
+        3,
+        36,
+        37,
+        56,
+        61
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            21
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-11-04",
+      "gameId": "us-powerball",
+      "localDate": "2026-11-04",
+      "drawnAt": "2026-11-05T03:59:00Z",
+      "main": [
+        15,
+        34,
+        41,
+        53,
+        56
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            21
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-11-02",
+      "gameId": "us-powerball",
+      "localDate": "2026-11-02",
+      "drawnAt": "2026-11-03T03:59:00Z",
+      "main": [
+        7,
+        23,
+        29,
+        64,
+        66
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            23
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-10-31",
+      "gameId": "us-powerball",
+      "localDate": "2026-10-31",
+      "drawnAt": "2026-11-01T02:59:00Z",
+      "main": [
+        2,
+        4,
+        18,
+        50,
+        56
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            20
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-10-28",
+      "gameId": "us-powerball",
+      "localDate": "2026-10-28",
+      "drawnAt": "2026-10-29T02:59:00Z",
+      "main": [
+        11,
+        13,
+        16,
+        47,
+        60
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            13
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-10-26",
+      "gameId": "us-powerball",
+      "localDate": "2026-10-26",
+      "drawnAt": "2026-10-27T02:59:00Z",
+      "main": [
+        18,
+        26,
+        49,
+        50,
+        54
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            1
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-10-24",
+      "gameId": "us-powerball",
+      "localDate": "2026-10-24",
+      "drawnAt": "2026-10-25T02:59:00Z",
+      "main": [
+        4,
+        5,
+        15,
+        19,
+        55
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            19
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-10-21",
+      "gameId": "us-powerball",
+      "localDate": "2026-10-21",
+      "drawnAt": "2026-10-22T02:59:00Z",
+      "main": [
+        1,
+        21,
+        44,
+        50,
+        57
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            5
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-10-19",
+      "gameId": "us-powerball",
+      "localDate": "2026-10-19",
+      "drawnAt": "2026-10-20T02:59:00Z",
+      "main": [
+        8,
+        31,
+        32,
+        42,
+        48
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            23
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-10-17",
+      "gameId": "us-powerball",
+      "localDate": "2026-10-17",
+      "drawnAt": "2026-10-18T02:59:00Z",
+      "main": [
+        12,
+        13,
+        24,
+        32,
+        35
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            11
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-10-14",
+      "gameId": "us-powerball",
+      "localDate": "2026-10-14",
+      "drawnAt": "2026-10-15T02:59:00Z",
+      "main": [
+        3,
+        34,
+        37,
+        42,
+        46
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            20
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-10-12",
+      "gameId": "us-powerball",
+      "localDate": "2026-10-12",
+      "drawnAt": "2026-10-13T02:59:00Z",
+      "main": [
+        22,
+        28,
+        38,
+        51,
+        69
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            9
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-10-10",
+      "gameId": "us-powerball",
+      "localDate": "2026-10-10",
+      "drawnAt": "2026-10-11T02:59:00Z",
+      "main": [
+        1,
+        4,
+        19,
+        33,
+        51
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            15
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-10-07",
+      "gameId": "us-powerball",
+      "localDate": "2026-10-07",
+      "drawnAt": "2026-10-08T02:59:00Z",
+      "main": [
+        11,
+        13,
+        14,
+        21,
+        65
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            19
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-10-05",
+      "gameId": "us-powerball",
+      "localDate": "2026-10-05",
+      "drawnAt": "2026-10-06T02:59:00Z",
+      "main": [
+        16,
+        23,
+        32,
+        36,
+        54
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            9
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-10-03",
+      "gameId": "us-powerball",
+      "localDate": "2026-10-03",
+      "drawnAt": "2026-10-04T02:59:00Z",
+      "main": [
+        4,
+        42,
+        44,
+        55,
+        59
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            14
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-09-30",
+      "gameId": "us-powerball",
+      "localDate": "2026-09-30",
+      "drawnAt": "2026-10-01T02:59:00Z",
+      "main": [
+        4,
+        6,
+        23,
+        33,
+        44
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            13
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-09-28",
+      "gameId": "us-powerball",
+      "localDate": "2026-09-28",
+      "drawnAt": "2026-09-29T02:59:00Z",
+      "main": [
+        17,
+        21,
+        29,
+        42,
+        49
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            7
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-09-26",
+      "gameId": "us-powerball",
+      "localDate": "2026-09-26",
+      "drawnAt": "2026-09-27T02:59:00Z",
+      "main": [
+        14,
+        40,
+        52,
+        55,
+        57
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            24
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-09-23",
+      "gameId": "us-powerball",
+      "localDate": "2026-09-23",
+      "drawnAt": "2026-09-24T02:59:00Z",
+      "main": [
+        5,
+        15,
+        26,
+        29,
+        30
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            14
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "5x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-09-21",
+      "gameId": "us-powerball",
+      "localDate": "2026-09-21",
+      "drawnAt": "2026-09-22T02:59:00Z",
+      "main": [
+        2,
+        7,
+        9,
+        17,
+        58
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            20
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-09-19",
+      "gameId": "us-powerball",
+      "localDate": "2026-09-19",
+      "drawnAt": "2026-09-20T02:59:00Z",
+      "main": [
+        18,
+        30,
+        41,
+        45,
+        68
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            10
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-09-16",
+      "gameId": "us-powerball",
+      "localDate": "2026-09-16",
+      "drawnAt": "2026-09-17T02:59:00Z",
+      "main": [
+        2,
+        21,
+        24,
+        25,
+        64
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            7
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-09-14",
+      "gameId": "us-powerball",
+      "localDate": "2026-09-14",
+      "drawnAt": "2026-09-15T02:59:00Z",
+      "main": [
+        19,
+        20,
+        57,
+        61,
+        67
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            22
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-09-12",
+      "gameId": "us-powerball",
+      "localDate": "2026-09-12",
+      "drawnAt": "2026-09-13T02:59:00Z",
+      "main": [
+        14,
+        16,
+        23,
+        58,
+        69
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            3
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-09-09",
+      "gameId": "us-powerball",
+      "localDate": "2026-09-09",
+      "drawnAt": "2026-09-10T02:59:00Z",
+      "main": [
+        9,
+        40,
+        42,
+        55,
+        65
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            23
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-09-07",
+      "gameId": "us-powerball",
+      "localDate": "2026-09-07",
+      "drawnAt": "2026-09-08T02:59:00Z",
+      "main": [
+        15,
+        19,
+        28,
+        39,
+        56
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            3
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-09-05",
+      "gameId": "us-powerball",
+      "localDate": "2026-09-05",
+      "drawnAt": "2026-09-06T02:59:00Z",
+      "main": [
+        15,
+        40,
+        47,
+        53,
+        59
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            9
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-09-02",
+      "gameId": "us-powerball",
+      "localDate": "2026-09-02",
+      "drawnAt": "2026-09-03T02:59:00Z",
+      "main": [
+        3,
+        10,
+        29,
+        58,
+        64
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            14
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-08-31",
+      "gameId": "us-powerball",
+      "localDate": "2026-08-31",
+      "drawnAt": "2026-09-01T02:59:00Z",
+      "main": [
+        11,
+        17,
+        25,
+        37,
+        49
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            10
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-08-29",
+      "gameId": "us-powerball",
+      "localDate": "2026-08-29",
+      "drawnAt": "2026-08-30T02:59:00Z",
+      "main": [
+        18,
+        56,
+        62,
+        65,
+        67
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            18
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-08-26",
+      "gameId": "us-powerball",
+      "localDate": "2026-08-26",
+      "drawnAt": "2026-08-27T02:59:00Z",
+      "main": [
+        12,
+        32,
+        45,
+        50,
+        58
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            2
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-08-24",
+      "gameId": "us-powerball",
+      "localDate": "2026-08-24",
+      "drawnAt": "2026-08-25T02:59:00Z",
+      "main": [
+        3,
+        16,
+        33,
+        38,
+        68
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            2
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-08-22",
+      "gameId": "us-powerball",
+      "localDate": "2026-08-22",
+      "drawnAt": "2026-08-23T02:59:00Z",
+      "main": [
+        13,
+        31,
+        54,
+        57,
+        65
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            23
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-08-19",
+      "gameId": "us-powerball",
+      "localDate": "2026-08-19",
+      "drawnAt": "2026-08-20T02:59:00Z",
+      "main": [
+        10,
+        21,
+        58,
+        61,
+        64
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            17
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-08-17",
+      "gameId": "us-powerball",
+      "localDate": "2026-08-17",
+      "drawnAt": "2026-08-18T02:59:00Z",
+      "main": [
+        8,
+        15,
+        25,
+        49,
+        65
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            22
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-08-15",
+      "gameId": "us-powerball",
+      "localDate": "2026-08-15",
+      "drawnAt": "2026-08-16T02:59:00Z",
+      "main": [
+        5,
+        8,
+        27,
+        29,
+        63
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            13
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-08-12",
+      "gameId": "us-powerball",
+      "localDate": "2026-08-12",
+      "drawnAt": "2026-08-13T02:59:00Z",
+      "main": [
+        4,
+        26,
+        66,
+        67,
+        69
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            9
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-08-10",
+      "gameId": "us-powerball",
+      "localDate": "2026-08-10",
+      "drawnAt": "2026-08-11T02:59:00Z",
+      "main": [
+        6,
+        37,
+        54,
+        55,
+        64
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            10
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-08-08",
+      "gameId": "us-powerball",
+      "localDate": "2026-08-08",
+      "drawnAt": "2026-08-09T02:59:00Z",
+      "main": [
+        5,
+        9,
+        35,
+        54,
+        63
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            7
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-08-05",
+      "gameId": "us-powerball",
+      "localDate": "2026-08-05",
+      "drawnAt": "2026-08-06T02:59:00Z",
+      "main": [
+        14,
+        20,
+        59,
+        60,
+        61
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            25
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-08-03",
+      "gameId": "us-powerball",
+      "localDate": "2026-08-03",
+      "drawnAt": "2026-08-04T02:59:00Z",
+      "main": [
+        8,
+        30,
+        41,
+        48,
+        54
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            4
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-08-01",
+      "gameId": "us-powerball",
+      "localDate": "2026-08-01",
+      "drawnAt": "2026-08-02T02:59:00Z",
+      "main": [
+        6,
+        17,
+        27,
+        48,
+        50
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            5
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-07-29",
+      "gameId": "us-powerball",
+      "localDate": "2026-07-29",
+      "drawnAt": "2026-07-30T02:59:00Z",
+      "main": [
+        30,
+        36,
+        40,
+        42,
+        57
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            2
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-07-27",
+      "gameId": "us-powerball",
+      "localDate": "2026-07-27",
+      "drawnAt": "2026-07-28T02:59:00Z",
+      "main": [
+        6,
+        26,
+        46,
+        58,
+        65
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            25
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-07-25",
+      "gameId": "us-powerball",
+      "localDate": "2026-07-25",
+      "drawnAt": "2026-07-26T02:59:00Z",
+      "main": [
+        3,
+        4,
+        24,
+        36,
+        47
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            17
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-07-22",
+      "gameId": "us-powerball",
+      "localDate": "2026-07-22",
+      "drawnAt": "2026-07-23T02:59:00Z",
+      "main": [
+        4,
+        5,
+        22,
+        50,
+        58
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            1
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-07-20",
+      "gameId": "us-powerball",
+      "localDate": "2026-07-20",
+      "drawnAt": "2026-07-21T02:59:00Z",
+      "main": [
+        2,
+        9,
+        44,
+        53,
+        59
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            8
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-07-18",
+      "gameId": "us-powerball",
+      "localDate": "2026-07-18",
+      "drawnAt": "2026-07-19T02:59:00Z",
+      "main": [
+        9,
+        14,
+        44,
+        50,
+        56
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            3
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-07-15",
+      "gameId": "us-powerball",
+      "localDate": "2026-07-15",
+      "drawnAt": "2026-07-16T02:59:00Z",
+      "main": [
+        2,
+        7,
+        18,
+        29,
+        38
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            16
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-07-13",
+      "gameId": "us-powerball",
+      "localDate": "2026-07-13",
+      "drawnAt": "2026-07-14T02:59:00Z",
+      "main": [
+        5,
+        25,
+        36,
+        40,
+        48
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            3
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-07-11",
+      "gameId": "us-powerball",
+      "localDate": "2026-07-11",
+      "drawnAt": "2026-07-12T02:59:00Z",
+      "main": [
+        8,
+        10,
+        14,
+        45,
+        59
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            5
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-07-08",
+      "gameId": "us-powerball",
+      "localDate": "2026-07-08",
+      "drawnAt": "2026-07-09T02:59:00Z",
+      "main": [
+        12,
+        29,
+        37,
+        43,
+        55
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            18
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-07-06",
+      "gameId": "us-powerball",
+      "localDate": "2026-07-06",
+      "drawnAt": "2026-07-07T02:59:00Z",
+      "main": [
+        17,
+        44,
+        63,
+        66,
+        67
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            4
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-07-04",
+      "gameId": "us-powerball",
+      "localDate": "2026-07-04",
+      "drawnAt": "2026-07-05T02:59:00Z",
+      "main": [
+        17,
+        38,
+        46,
+        50,
+        69
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            20
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-07-01",
+      "gameId": "us-powerball",
+      "localDate": "2026-07-01",
+      "drawnAt": "2026-07-02T02:59:00Z",
+      "main": [
+        2,
+        6,
+        26,
+        39,
+        68
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            6
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-06-29",
+      "gameId": "us-powerball",
+      "localDate": "2026-06-29",
+      "drawnAt": "2026-06-30T02:59:00Z",
+      "main": [
+        10,
+        14,
+        41,
+        53,
+        59
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            3
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-06-27",
+      "gameId": "us-powerball",
+      "localDate": "2026-06-27",
+      "drawnAt": "2026-06-28T02:59:00Z",
+      "main": [
+        3,
+        16,
+        28,
+        30,
+        59
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            11
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-06-24",
+      "gameId": "us-powerball",
+      "localDate": "2026-06-24",
+      "drawnAt": "2026-06-25T02:59:00Z",
+      "main": [
+        13,
+        14,
+        16,
+        21,
+        38
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            14
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-06-22",
+      "gameId": "us-powerball",
+      "localDate": "2026-06-22",
+      "drawnAt": "2026-06-23T02:59:00Z",
+      "main": [
+        17,
+        19,
+        21,
+        45,
+        48
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            13
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-06-20",
+      "gameId": "us-powerball",
+      "localDate": "2026-06-20",
+      "drawnAt": "2026-06-21T02:59:00Z",
+      "main": [
+        16,
+        20,
+        44,
+        48,
+        50
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            15
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-06-17",
+      "gameId": "us-powerball",
+      "localDate": "2026-06-17",
+      "drawnAt": "2026-06-18T02:59:00Z",
+      "main": [
+        3,
+        26,
+        49,
+        53,
+        61
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            12
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-06-15",
+      "gameId": "us-powerball",
+      "localDate": "2026-06-15",
+      "drawnAt": "2026-06-16T02:59:00Z",
+      "main": [
+        25,
+        55,
+        57,
+        60,
+        62
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            23
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-06-13",
+      "gameId": "us-powerball",
+      "localDate": "2026-06-13",
+      "drawnAt": "2026-06-14T02:59:00Z",
+      "main": [
+        3,
+        13,
+        44,
+        50,
+        53
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            2
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-06-10",
+      "gameId": "us-powerball",
+      "localDate": "2026-06-10",
+      "drawnAt": "2026-06-11T02:59:00Z",
+      "main": [
+        12,
+        31,
+        38,
+        60,
+        66
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            14
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-06-08",
+      "gameId": "us-powerball",
+      "localDate": "2026-06-08",
+      "drawnAt": "2026-06-09T02:59:00Z",
+      "main": [
+        3,
+        24,
+        34,
+        43,
+        49
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            20
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-06-06",
+      "gameId": "us-powerball",
+      "localDate": "2026-06-06",
+      "drawnAt": "2026-06-07T02:59:00Z",
+      "main": [
+        16,
+        32,
+        55,
+        59,
+        64
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            3
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-06-03",
+      "gameId": "us-powerball",
+      "localDate": "2026-06-03",
+      "drawnAt": "2026-06-04T02:59:00Z",
+      "main": [
+        14,
+        16,
+        38,
+        55,
+        64
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            12
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-06-01",
+      "gameId": "us-powerball",
+      "localDate": "2026-06-01",
+      "drawnAt": "2026-06-02T02:59:00Z",
+      "main": [
+        2,
+        42,
+        47,
+        57,
+        58
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            14
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-05-30",
+      "gameId": "us-powerball",
+      "localDate": "2026-05-30",
+      "drawnAt": "2026-05-31T02:59:00Z",
+      "main": [
+        1,
+        27,
+        35,
+        44,
+        52
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            12
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-05-27",
+      "gameId": "us-powerball",
+      "localDate": "2026-05-27",
+      "drawnAt": "2026-05-28T02:59:00Z",
+      "main": [
+        5,
+        14,
+        21,
+        31,
+        51
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            13
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-05-25",
+      "gameId": "us-powerball",
+      "localDate": "2026-05-25",
+      "drawnAt": "2026-05-26T02:59:00Z",
+      "main": [
+        17,
+        32,
+        48,
+        60,
+        64
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            10
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-05-23",
+      "gameId": "us-powerball",
+      "localDate": "2026-05-23",
+      "drawnAt": "2026-05-24T02:59:00Z",
+      "main": [
+        4,
+        16,
+        41,
+        48,
+        66
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            26
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-05-20",
+      "gameId": "us-powerball",
+      "localDate": "2026-05-20",
+      "drawnAt": "2026-05-21T02:59:00Z",
+      "main": [
+        10,
+        28,
+        30,
+        46,
+        57
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            25
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-05-18",
+      "gameId": "us-powerball",
+      "localDate": "2026-05-18",
+      "drawnAt": "2026-05-19T02:59:00Z",
+      "main": [
+        4,
+        13,
+        34,
+        61,
+        65
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            12
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-05-16",
+      "gameId": "us-powerball",
+      "localDate": "2026-05-16",
+      "drawnAt": "2026-05-17T02:59:00Z",
+      "main": [
+        8,
+        37,
+        40,
+        44,
+        65
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            18
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-05-13",
+      "gameId": "us-powerball",
+      "localDate": "2026-05-13",
+      "drawnAt": "2026-05-14T02:59:00Z",
+      "main": [
+        22,
+        31,
+        52,
+        56,
+        67
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            15
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-05-11",
+      "gameId": "us-powerball",
+      "localDate": "2026-05-11",
+      "drawnAt": "2026-05-12T02:59:00Z",
+      "main": [
+        24,
+        30,
+        37,
+        56,
+        64
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            7
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-05-09",
+      "gameId": "us-powerball",
+      "localDate": "2026-05-09",
+      "drawnAt": "2026-05-10T02:59:00Z",
+      "main": [
+        15,
+        41,
+        46,
+        47,
+        56
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            22
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-05-06",
+      "gameId": "us-powerball",
+      "localDate": "2026-05-06",
+      "drawnAt": "2026-05-07T02:59:00Z",
+      "main": [
+        18,
+        27,
+        51,
+        65,
+        68
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            5
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-05-04",
+      "gameId": "us-powerball",
+      "localDate": "2026-05-04",
+      "drawnAt": "2026-05-05T02:59:00Z",
+      "main": [
+        30,
+        36,
+        42,
+        60,
+        63
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            13
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-05-02",
+      "gameId": "us-powerball",
+      "localDate": "2026-05-02",
+      "drawnAt": "2026-05-03T02:59:00Z",
+      "main": [
+        25,
+        37,
+        42,
+        52,
+        65
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            14
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-04-29",
+      "gameId": "us-powerball",
+      "localDate": "2026-04-29",
+      "drawnAt": "2026-04-30T02:59:00Z",
+      "main": [
+        3,
+        19,
+        35,
+        51,
+        67
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            15
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-04-27",
+      "gameId": "us-powerball",
+      "localDate": "2026-04-27",
+      "drawnAt": "2026-04-28T02:59:00Z",
+      "main": [
+        18,
+        31,
+        33,
+        36,
+        62
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            3
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-04-25",
+      "gameId": "us-powerball",
+      "localDate": "2026-04-25",
+      "drawnAt": "2026-04-26T02:59:00Z",
+      "main": [
+        4,
+        30,
+        36,
+        52,
+        57
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            2
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-04-22",
+      "gameId": "us-powerball",
+      "localDate": "2026-04-22",
+      "drawnAt": "2026-04-23T02:59:00Z",
+      "main": [
+        24,
+        29,
+        32,
+        49,
+        63
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            11
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-04-20",
+      "gameId": "us-powerball",
+      "localDate": "2026-04-20",
+      "drawnAt": "2026-04-21T02:59:00Z",
+      "main": [
+        9,
+        17,
+        36,
+        47,
+        64
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            26
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-04-18",
+      "gameId": "us-powerball",
+      "localDate": "2026-04-18",
+      "drawnAt": "2026-04-19T02:59:00Z",
+      "main": [
+        24,
+        25,
+        39,
+        46,
+        61
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            1
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "5x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-04-15",
+      "gameId": "us-powerball",
+      "localDate": "2026-04-15",
+      "drawnAt": "2026-04-16T02:59:00Z",
+      "main": [
+        13,
+        21,
+        27,
+        43,
+        45
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            26
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "5x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-04-13",
+      "gameId": "us-powerball",
+      "localDate": "2026-04-13",
+      "drawnAt": "2026-04-14T02:59:00Z",
+      "main": [
+        38,
+        43,
+        59,
+        63,
+        64
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            15
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-04-11",
+      "gameId": "us-powerball",
+      "localDate": "2026-04-11",
+      "drawnAt": "2026-04-12T02:59:00Z",
+      "main": [
+        6,
+        47,
+        49,
+        53,
+        60
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            6
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-04-08",
+      "gameId": "us-powerball",
+      "localDate": "2026-04-08",
+      "drawnAt": "2026-04-09T02:59:00Z",
+      "main": [
+        3,
+        16,
+        17,
+        42,
+        52
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            3
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-04-06",
+      "gameId": "us-powerball",
+      "localDate": "2026-04-06",
+      "drawnAt": "2026-04-07T02:59:00Z",
+      "main": [
+        7,
+        24,
+        37,
+        42,
+        57
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            5
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-04-04",
+      "gameId": "us-powerball",
+      "localDate": "2026-04-04",
+      "drawnAt": "2026-04-05T02:59:00Z",
+      "main": [
+        3,
+        6,
+        13,
+        41,
+        65
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            1
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-04-01",
+      "gameId": "us-powerball",
+      "localDate": "2026-04-01",
+      "drawnAt": "2026-04-02T02:59:00Z",
+      "main": [
+        4,
+        10,
+        11,
+        52,
+        64
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            24
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-03-30",
+      "gameId": "us-powerball",
+      "localDate": "2026-03-30",
+      "drawnAt": "2026-03-31T02:59:00Z",
+      "main": [
+        7,
+        11,
+        31,
+        41,
+        57
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            20
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-03-28",
+      "gameId": "us-powerball",
+      "localDate": "2026-03-28",
+      "drawnAt": "2026-03-29T02:59:00Z",
+      "main": [
+        11,
+        42,
+        43,
+        59,
+        61
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            25
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-03-25",
+      "gameId": "us-powerball",
+      "localDate": "2026-03-25",
+      "drawnAt": "2026-03-26T02:59:00Z",
+      "main": [
+        7,
+        21,
+        55,
+        56,
+        64
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            26
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-03-23",
+      "gameId": "us-powerball",
+      "localDate": "2026-03-23",
+      "drawnAt": "2026-03-24T02:59:00Z",
+      "main": [
+        12,
+        18,
+        47,
+        56,
+        63
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            1
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "10x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-03-21",
+      "gameId": "us-powerball",
+      "localDate": "2026-03-21",
+      "drawnAt": "2026-03-22T02:59:00Z",
+      "main": [
+        12,
+        28,
+        36,
+        41,
+        59
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            2
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-03-18",
+      "gameId": "us-powerball",
+      "localDate": "2026-03-18",
+      "drawnAt": "2026-03-19T02:59:00Z",
+      "main": [
+        14,
+        18,
+        19,
+        21,
+        69
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            1
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-03-16",
+      "gameId": "us-powerball",
+      "localDate": "2026-03-16",
+      "drawnAt": "2026-03-17T02:59:00Z",
+      "main": [
+        7,
+        10,
+        20,
+        47,
+        52
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            20
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-03-14",
+      "gameId": "us-powerball",
+      "localDate": "2026-03-14",
+      "drawnAt": "2026-03-15T02:59:00Z",
+      "main": [
+        9,
+        30,
+        42,
+        50,
+        52
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            21
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-03-11",
+      "gameId": "us-powerball",
+      "localDate": "2026-03-11",
+      "drawnAt": "2026-03-12T02:59:00Z",
+      "main": [
+        3,
+        6,
+        55,
+        58,
+        63
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            12
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-03-09",
+      "gameId": "us-powerball",
+      "localDate": "2026-03-09",
+      "drawnAt": "2026-03-10T02:59:00Z",
+      "main": [
+        22,
+        23,
+        28,
+        36,
+        54
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            13
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-03-07",
+      "gameId": "us-powerball",
+      "localDate": "2026-03-07",
+      "drawnAt": "2026-03-08T03:59:00Z",
+      "main": [
+        17,
+        18,
+        30,
+        50,
+        68
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            24
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-03-04",
+      "gameId": "us-powerball",
+      "localDate": "2026-03-04",
+      "drawnAt": "2026-03-05T03:59:00Z",
+      "main": [
+        7,
+        14,
+        42,
+        47,
+        56
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            6
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-03-02",
+      "gameId": "us-powerball",
+      "localDate": "2026-03-02",
+      "drawnAt": "2026-03-03T03:59:00Z",
+      "main": [
+        2,
+        17,
+        18,
+        38,
+        62
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            20
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-02-28",
+      "gameId": "us-powerball",
+      "localDate": "2026-02-28",
+      "drawnAt": "2026-03-01T03:59:00Z",
+      "main": [
+        6,
+        20,
+        35,
+        54,
+        65
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            10
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-02-25",
+      "gameId": "us-powerball",
+      "localDate": "2026-02-25",
+      "drawnAt": "2026-02-26T03:59:00Z",
+      "main": [
+        50,
+        52,
+        54,
+        56,
+        64
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            23
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-02-23",
+      "gameId": "us-powerball",
+      "localDate": "2026-02-23",
+      "drawnAt": "2026-02-24T03:59:00Z",
+      "main": [
+        5,
+        11,
+        23,
+        29,
+        47
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            6
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-02-21",
+      "gameId": "us-powerball",
+      "localDate": "2026-02-21",
+      "drawnAt": "2026-02-22T03:59:00Z",
+      "main": [
+        27,
+        28,
+        36,
+        48,
+        49
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            21
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-02-18",
+      "gameId": "us-powerball",
+      "localDate": "2026-02-18",
+      "drawnAt": "2026-02-19T03:59:00Z",
+      "main": [
+        9,
+        33,
+        52,
+        64,
+        66
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            1
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-02-16",
+      "gameId": "us-powerball",
+      "localDate": "2026-02-16",
+      "drawnAt": "2026-02-17T03:59:00Z",
+      "main": [
+        16,
+        18,
+        19,
+        56,
+        58
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            6
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-02-14",
+      "gameId": "us-powerball",
+      "localDate": "2026-02-14",
+      "drawnAt": "2026-02-15T03:59:00Z",
+      "main": [
+        23,
+        43,
+        58,
+        60,
+        64
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            24
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-02-11",
+      "gameId": "us-powerball",
+      "localDate": "2026-02-11",
+      "drawnAt": "2026-02-12T03:59:00Z",
+      "main": [
+        6,
+        20,
+        33,
+        40,
+        48
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            5
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-02-09",
+      "gameId": "us-powerball",
+      "localDate": "2026-02-09",
+      "drawnAt": "2026-02-10T03:59:00Z",
+      "main": [
+        6,
+        19,
+        22,
+        28,
+        48
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            24
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "5x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-02-07",
+      "gameId": "us-powerball",
+      "localDate": "2026-02-07",
+      "drawnAt": "2026-02-08T03:59:00Z",
+      "main": [
+        25,
+        36,
+        42,
+        51,
+        58
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            6
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-02-04",
+      "gameId": "us-powerball",
+      "localDate": "2026-02-04",
+      "drawnAt": "2026-02-05T03:59:00Z",
+      "main": [
+        27,
+        29,
+        30,
+        37,
+        58
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            15
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-02-02",
+      "gameId": "us-powerball",
+      "localDate": "2026-02-02",
+      "drawnAt": "2026-02-03T03:59:00Z",
+      "main": [
+        3,
+        8,
+        31,
+        60,
+        65
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            4
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-01-31",
+      "gameId": "us-powerball",
+      "localDate": "2026-01-31",
+      "drawnAt": "2026-02-01T03:59:00Z",
+      "main": [
+        2,
+        8,
+        14,
+        40,
+        63
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            23
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-01-28",
+      "gameId": "us-powerball",
+      "localDate": "2026-01-28",
+      "drawnAt": "2026-01-29T03:59:00Z",
+      "main": [
+        21,
+        35,
+        40,
+        46,
+        68
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            11
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "10x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-01-26",
+      "gameId": "us-powerball",
+      "localDate": "2026-01-26",
+      "drawnAt": "2026-01-27T03:59:00Z",
+      "main": [
+        21,
+        31,
+        51,
+        60,
+        63
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            18
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-01-24",
+      "gameId": "us-powerball",
+      "localDate": "2026-01-24",
+      "drawnAt": "2026-01-25T03:59:00Z",
+      "main": [
+        2,
+        16,
+        35,
+        61,
+        63
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            5
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-01-21",
+      "gameId": "us-powerball",
+      "localDate": "2026-01-21",
+      "drawnAt": "2026-01-22T03:59:00Z",
+      "main": [
+        11,
+        26,
+        27,
+        53,
+        55
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            12
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-01-19",
+      "gameId": "us-powerball",
+      "localDate": "2026-01-19",
+      "drawnAt": "2026-01-20T03:59:00Z",
+      "main": [
+        5,
+        28,
+        34,
+        37,
+        55
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            17
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-01-17",
+      "gameId": "us-powerball",
+      "localDate": "2026-01-17",
+      "drawnAt": "2026-01-18T03:59:00Z",
+      "main": [
+        5,
+        8,
+        27,
+        49,
+        57
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            14
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "4x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-01-14",
+      "gameId": "us-powerball",
+      "localDate": "2026-01-14",
+      "drawnAt": "2026-01-15T03:59:00Z",
+      "main": [
+        6,
+        24,
+        39,
+        43,
+        51
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            2
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-01-12",
+      "gameId": "us-powerball",
+      "localDate": "2026-01-12",
+      "drawnAt": "2026-01-13T03:59:00Z",
+      "main": [
+        5,
+        27,
+        45,
+        56,
+        59
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            4
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-01-10",
+      "gameId": "us-powerball",
+      "localDate": "2026-01-10",
+      "drawnAt": "2026-01-11T03:59:00Z",
+      "main": [
+        5,
+        19,
+        21,
+        28,
+        64
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            14
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-01-07",
+      "gameId": "us-powerball",
+      "localDate": "2026-01-07",
+      "drawnAt": "2026-01-08T03:59:00Z",
+      "main": [
+        15,
+        28,
+        57,
+        58,
+        63
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            23
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-01-05",
+      "gameId": "us-powerball",
+      "localDate": "2026-01-05",
+      "drawnAt": "2026-01-06T03:59:00Z",
+      "main": [
+        4,
+        18,
+        24,
+        51,
+        56
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            14
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "2x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
+      "id": "us-powerball-2026-01-03",
+      "gameId": "us-powerball",
+      "localDate": "2026-01-03",
+      "drawnAt": "2026-01-04T03:59:00Z",
+      "main": [
+        18,
+        21,
+        40,
+        53,
+        60
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            23
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    }
+  ]
+}

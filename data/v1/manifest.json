@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-11T10:30:56Z",
+  "games": {
+    "us-powerball": {
+      "latestDrawId": "us-powerball-2026-11-09",
+      "latestLocalDate": "2026-11-09",
+      "updatedAt": "2026-11-11T10:30:56Z",
+      "historyYears": [
+        2026
+      ]
+    },
+    "us-mega-millions": {
+      "latestDrawId": "us-mega-millions-2026-11-10",
+      "latestLocalDate": "2026-11-10",
+      "updatedAt": "2026-11-11T10:30:56Z",
+      "historyYears": [
+        2026
+      ]
+    }
+  }
+}

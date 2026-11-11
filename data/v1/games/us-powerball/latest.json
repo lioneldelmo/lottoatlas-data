@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "gameId": "us-powerball",
+  "draw": {
+    "id": "us-powerball-2026-11-09",
+    "gameId": "us-powerball",
+    "localDate": "2026-11-09",
+    "drawnAt": "2026-11-10T03:59:00Z",
+    "main": [
+      13,
+      34,
+      41,
+      45,
+      48
+    ],
+    "bonus": [
+      {
+        "name": "Powerball",
+        "numbers": [
+          25
+        ]
+      }
+    ],
+    "extras": [
+      {
+        "name": "Multiplier",
+        "value": "2x"
+      }
+    ],
+    "source": "https://data.ny.gov/d/d6yy-54nr"
+  },
+  "next": {
+    "drawnAt": "2026-11-12T03:59:00Z"
+  },
+  "updatedAt": "2026-11-11T10:30:56Z"
+}
