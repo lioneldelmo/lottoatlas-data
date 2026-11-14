@@ -4,6 +4,29 @@
   "year": 2026,
   "draws": [
     {
+      "id": "us-mega-millions-2026-11-13",
+      "gameId": "us-mega-millions",
+      "localDate": "2026-11-13",
+      "drawnAt": "2026-11-14T04:00:00Z",
+      "main": [
+        10,
+        22,
+        33,
+        49,
+        57
+      ],
+      "bonus": [
+        {
+          "name": "Mega Ball",
+          "numbers": [
+            18
+          ]
+        }
+      ],
+      "extras": [],
+      "source": "https://data.ny.gov/d/5xaw-6ayf"
+    },
+    {
       "id": "us-mega-millions-2026-11-10",
       "gameId": "us-mega-millions",
       "localDate": "2026-11-10",

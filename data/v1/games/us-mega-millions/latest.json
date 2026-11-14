@@ -2,22 +2,22 @@
   "schemaVersion": 1,
   "gameId": "us-mega-millions",
   "draw": {
-    "id": "us-mega-millions-2026-11-10",
+    "id": "us-mega-millions-2026-11-13",
     "gameId": "us-mega-millions",
-    "localDate": "2026-11-10",
-    "drawnAt": "2026-11-11T04:00:00Z",
+    "localDate": "2026-11-13",
+    "drawnAt": "2026-11-14T04:00:00Z",
     "main": [
-      2,
-      18,
-      25,
-      30,
-      65
+      10,
+      22,
+      33,
+      49,
+      57
     ],
     "bonus": [
       {
         "name": "Mega Ball",
         "numbers": [
-          22
+          18
         ]
       }
     ],
@@ -27,5 +27,5 @@
   "next": {
     "drawnAt": "2026-11-18T04:00:00Z"
   },
-  "updatedAt": "2026-11-14T04:02:34Z"
+  "updatedAt": "2026-11-14T08:47:01Z"
 }
