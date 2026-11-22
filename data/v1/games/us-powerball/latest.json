@@ -2,22 +2,22 @@
   "schemaVersion": 1,
   "gameId": "us-powerball",
   "draw": {
-    "id": "us-powerball-2026-11-18",
+    "id": "us-powerball-2026-11-21",
     "gameId": "us-powerball",
-    "localDate": "2026-11-18",
-    "drawnAt": "2026-11-19T03:59:00Z",
+    "localDate": "2026-11-21",
+    "drawnAt": "2026-11-22T03:59:00Z",
     "main": [
-      18,
-      31,
-      43,
-      51,
-      62
+      5,
+      29,
+      33,
+      36,
+      45
     ],
     "bonus": [
       {
         "name": "Powerball",
         "numbers": [
-          12
+          22
         ]
       }
     ],
@@ -32,5 +32,5 @@
   "next": {
     "drawnAt": "2026-11-24T03:59:00Z"
   },
-  "updatedAt": "2026-11-22T04:02:45Z"
+  "updatedAt": "2026-11-22T08:46:49Z"
 }
