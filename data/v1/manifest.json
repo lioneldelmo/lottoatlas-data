@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T08:46:56Z",
+  "generatedAt": "2026-11-22T04:02:45Z",
   "games": {
     "us-powerball": {
       "latestDrawId": "us-powerball-2026-11-18",
       "latestLocalDate": "2026-11-18",
-      "updatedAt": "2026-11-19T08:46:43Z",
+      "updatedAt": "2026-11-22T04:02:45Z",
       "historyYears": [
         2026
       ]
