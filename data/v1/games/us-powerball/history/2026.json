@@ -4,6 +4,34 @@
   "year": 2026,
   "draws": [
     {
+      "id": "us-powerball-2026-11-25",
+      "gameId": "us-powerball",
+      "localDate": "2026-11-25",
+      "drawnAt": "2026-11-26T03:59:00Z",
+      "main": [
+        23,
+        43,
+        57,
+        58,
+        68
+      ],
+      "bonus": [
+        {
+          "name": "Powerball",
+          "numbers": [
+            12
+          ]
+        }
+      ],
+      "extras": [
+        {
+          "name": "Multiplier",
+          "value": "3x"
+        }
+      ],
+      "source": "https://data.ny.gov/d/d6yy-54nr"
+    },
+    {
       "id": "us-powerball-2026-11-23",
       "gameId": "us-powerball",
       "localDate": "2026-11-23",
